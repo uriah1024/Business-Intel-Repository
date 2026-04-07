@@ -1,0 +1,13 @@
+<!--  *****************************************************  -->
+<!--  INPUT DEFINITION   -->
+<!--  *****************************************************  -->
+<tool-input allow-school-select="false" district-support="false">
+<!--  ************  -->
+<!--  End -->
+<!--  ************  -->
+<input name="endDateCheck" data-type="boolean" display-type="checkbox" display-name="Check End Date Mismatch" default-value="true"/>
+<!--  ************  -->
+<!--  Start  -->
+<!--  ************  -->
+<input name="startDateCheck" data-type="boolean" display-type="checkbox" display-name="Check Start Date Mismatch" default-value="false"/>
+</tool-input>

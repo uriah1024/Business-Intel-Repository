@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reference-table user-name="MA SIMS Error List" code-length="25" sequence-order="true" category="MA SIMS">
+  <reference-code code="10" sequence-number="10" description="Days in Membership-Average Days in membership too low" state-code="10" template-context=".10" />
+  <reference-code code="101" sequence-number="101" description="Student SASID from last period is missing#Missing StudentSchoolEnrollment" state-code="101" template-context=".101" />
+  <reference-code code="101345" sequence-number="101345" description="Invalid Grad core curriculum code" state-code="101345" template-context=".101345" />
+  <reference-code code="101384" sequence-number="101384" description="School Code (DOE015) not valid with SPED Placement code Age 6:21(DOE034)" state-code="101384" template-context=".101384" />
+  <reference-code code="101452" sequence-number="101452" description="Enrollment Status(DOE012) = 40 requires a SPED Level of Need Code (DOE038)" state-code="101452" template-context=".101452" />
+  <reference-code code="101474" sequence-number="101474" description="Graduates: High school completer plans code (DOE033) invalid with enrollment status" template-context=".101474" />
+  <reference-code code="101491" sequence-number="101491" description="SPED students must have other SPED data elements" state-code="101491" template-context=".101491" />
+  <reference-code code="101492" sequence-number="101492" description="SPED data elements not needed for non:SPED student" state-code="101492" template-context=".101492" />
+  <reference-code code="101502" sequence-number="101502" description="School code not valid for reason for reporting" template-context=".101502" />
+  <reference-code code="101507" sequence-number="101507" description="Enrollment Status (DOE12), not valid with the school code" state-code="101507" template-context=".101507" />
+  <reference-code code="101508" sequence-number="101508" description="Public/Charter School not valid for report/enroll code" local-code="101508" template-context=".101508" />
+  <reference-code code="101510" sequence-number="101510" description="Days In Membership=0 is invalid" template-context=".101510" />
+  <reference-code code="101524" sequence-number="101524" description="Enrollment not valid with Private school" state-code="101524" template-context=".101524" />
+  <reference-code code="101535" sequence-number="101535" description="DOB does not match directory" state-code="101535" template-context=".101535" />
+  <reference-code code="101572" sequence-number="101572" description="Days in Membership invalid for Enrollment status code (Oct)" state-code="101572" template-context=".101572" />
+  <reference-code code="101573" sequence-number="101573" description="FN: First Name does not match directory" state-code="101573" template-context=".101573" />
+  <reference-code code="101575" sequence-number="101575" description="MN: Middle Name does not match directory" state-code="101575" template-context=".101575" />
+  <reference-code code="1021" sequence-number="1021" description="City/Town of Residence is missing for SASID" state-code="1021" template-context=".1021" />
+  <reference-code code="1024" sequence-number="1024" description="City/Town of Residence is missing for SASID" state-code="1024" template-context=".1024" />
+  <reference-code code="1036" sequence-number="1036" description="First (native) language code is missing" state-code="1036" template-context=".1036" />
+  <reference-code code="106" sequence-number="106" description="Student SASID from last period is missing#Missing StudentPersonal" state-code="106" template-context=".106" />
+  <reference-code code="107" sequence-number="107" description="Student SASID from last period is missing#Missing exit date" state-code="107" template-context=".107" />
+  <reference-code code="1070" sequence-number="1070" description="SIF1070 - Reason for Reporting code is missing" state-code="1070" template-context=".1070" />
+  <reference-code code="1072" sequence-number="1072" description="Enrollment status code is missing" template-context=".1072" />
+  <reference-code code="1103" sequence-number="1103" description="Race Code is Missing" template-context=".1103" />
+  <reference-code code="111507" sequence-number="111507" description="Grade invalid with School Code" state-code="111507" template-context=".111507" />
+  <reference-code code="11503" sequence-number="11503" description="Private or Approved Sped Grade not listed in reported school" state-code="11503" template-context=".11503" />
+  <reference-code code="1323" sequence-number="1323" description="City of Birth is invalid" state-code="1323" template-context=".1323" />
+  <reference-code code="1327" sequence-number="1327" description="SPED placement age 6:21 (DOE034) invalid" state-code="1327" template-context=".1327" />
+  <reference-code code="1329" sequence-number="1329" description="Student SASID not found in student directory. Invalid SASID." state-code="1329" template-context=".1329" />
+  <reference-code code="1331" sequence-number="1331" description="Race code is invalid" local-code="1331" template-context=".1331" />
+  <reference-code code="1333" sequence-number="1333" description="Enrollment status code is invalid" template-context=".1333" />
+  <reference-code code="1334" sequence-number="1334" description="Reason for Enrollment code is invalid" state-code="1334" template-context=".1334" />
+  <reference-code code="1335" sequence-number="1335" description="City/Town of Residence is invalid" state-code="1335" template-context=".1335" />
+  <reference-code code="1337" sequence-number="1337" description="Grade code is invalid" state-code="1337" template-context=".1337" />
+  <reference-code code="1341" sequence-number="1341" description="Country of origin code is invalid" state-code="1341" template-context=".1341" />
+  <reference-code code="1342" sequence-number="1342" description="First (native) language code is invalid" state-code="1342" template-context=".1342" />
+  <reference-code code="1343" sequence-number="1343" description="LEP code is invalid" state-code="1343" template-context=".1343" />
+  <reference-code code="1360" sequence-number="1360" description="Title I Participation code is invalid" state-code="1360" template-context=".1360" />
+  <reference-code code="1361" sequence-number="1361" description="ELL: English Learners Program code is invalid" state-code="1361" template-context=".1361" />
+  <reference-code code="1364" sequence-number="1364" description="Days In Membership must be less than 261 days" state-code="1364" template-context=".1364" />
+  <reference-code code="1365" sequence-number="1365" description="Days In Attendance must be between 0 and 261" state-code="1365" template-context=".1365" />
+  <reference-code code="1366" sequence-number="1366" description="Having no days in attendance (D0E017) is not likely with reported days in membership (DOE018)" template-context=".1366" />
+  <reference-code code="1376" sequence-number="1376" description="Days in Attendance not valid for out:placed student(s)" state-code="1376" template-context=".1376" />
+  <reference-code code="1383" sequence-number="1383" description="Sped Placement age 6:21 not valid with reason for reporting" state-code="1383" template-context=".1383" />
+  <reference-code code="1407" sequence-number="1407" description="Days total: UnexcusedDays + DaysAttendance Greater than Days in membership" state-code="1407" template-context=".1407" />
+  <reference-code code="1501" sequence-number="1501" description="School Code is Invalid" template-context=".1501" />
+  <reference-code code="1503" sequence-number="1503" description="Public or charter School/Grade not in reporting district" state-code="1503" template-context=".1503" />
+  <reference-code code="1505" sequence-number="1505" description="Services Only students may not be enrolled in the reporting district" template-context=".1505" />
+  <reference-code code="1516" sequence-number="1516" description="Title I Code applies only to Public/Charter" state-code="1516" template-context=".1516" />
+  <reference-code code="1518" sequence-number="1518" description="Title I: School has schoolwide Title I. Students must be reported with DOE020=01 and DOE030=00" state-code="1518" template-context=".1518" />
+  <reference-code code="1519" sequence-number="1519" description="Title I: Student must not have Title I Code = 01 (School Wide)" state-code="1519" template-context=".1519" />
+  <reference-code code="1520" sequence-number="1520" description="Title I: School has no Title I." state-code="1520" template-context=".1520" />
+  <reference-code code="1521" sequence-number="1521" description="District does not offer choice. Reason for Enrollment (DOE013) = 02 is  invalid" state-code="1521" template-context=".1521" />
+  <reference-code code="1524" sequence-number="1524" description="Sending Status Reason For reporting/reason for enrollment invalid" template-context=".1524" />
+  <reference-code code="1526" sequence-number="1526" description="Charter School: Not valid Reason for Enrollment(A,1)" state-code="1526" template-context=".1526" />
+  <reference-code code="1528" sequence-number="1528" description="TownCode inconsistent with Reason for Reporting(B)" template-context=".1528" />
+  <reference-code code="1551" sequence-number="1551" description="TownCode inconsistent with Reason for Reporting(01)" template-context=".1551" />
+  <reference-code code="1559" sequence-number="1559" description="Town of Residence: 888 valid only for students living out-of-state" state-code="1559" template-context=".1559" />
+  <reference-code code="1590" sequence-number="1590" description="Enrollment status (DOE012)=04 (graduate) not valid when student not passed MCAS" state-code="1590" template-context=".1590" />
+  <reference-code code="1592" sequence-number="1592" description="Enrollment status (DOE012)=04 (graduate) not valid when student not passed MCAS" state-code="1592" template-context=".1592" />
+  <reference-code code="1593" sequence-number="1593" description="Enrollment Status (DOE012) = 01 or 04 invalid when an SCS exception has been granted." state-code="1593" template-context=".1593" />
+  <reference-code code="1610" sequence-number="1610" description="Days in Membership exceeds maximum for collection period" template-context=".1610" />
+  <reference-code code="1620" sequence-number="1620" description="Days in Attendance exceeds maximum for collection period" state-code="1620" template-context=".1620" />
+  <reference-code code="1630" sequence-number="1630" description="CTE program code (DOE035) invalid for reason for reporting (DOE011)" state-code="1630" template-context=".1630" />
+  <reference-code code="1706" sequence-number="1706" description="Only English Language Learners may report SLIFE." state-code="1706" template-context=".1706" />
+  <reference-code code="180" sequence-number="180" description="Days in Membership (DOE018) must accrue for enrolled students" template-context=".180" />
+  <reference-code code="20" sequence-number="20" description="Days in Attendance/Membership=555 invalid for students already submitted in EOY with 555" state-code="20" template-context=".20" />
+  <reference-code code="21526" sequence-number="21526" description="Charter School: Not valid Reason for Reporting" state-code="21526" template-context=".21526" />
+  <reference-code code="23" sequence-number="23" description="Current or Former SPED (DOE034) must have placement 01, 10-90" state-code="23" template-context=".23" />
+  <reference-code code="230" sequence-number="230" description="Current or Former SPED (DOE032) must have placement 01, 30-48" state-code="230" template-context=".230" />
+  <reference-code code="24" sequence-number="24" description="Days in Membership Cannot accrue for unenrolled students" state-code="24" template-context=".24" />
+  <reference-code code="25" sequence-number="25" description="Previous year Aged Out / Deceased students should not be reported this year." template-context=".25" />
+  <reference-code code="26" sequence-number="26" description="Previous year graduates should not be reported this year" template-context=".26" />
+  <reference-code code="301384" sequence-number="301384" description="SPED Placemen t code invalid with school code(DOE015)" state-code="301384" template-context=".301384" />
+  <reference-code code="301510" sequence-number="301510" description="Days in Membership invalid for Enrollment status code (Oct)" state-code="301510" template-context=".301510" />
+  <reference-code code="31524" sequence-number="31524" description="Sending Status: Non:Sending Student must go to Public or Charter school in  own district" state-code="31524" template-context=".31524" />
+  <reference-code code="31526" sequence-number="31526" description="Charter School: Not valid Reason for Enrollment" state-code="31526" template-context=".31526" />
+  <reference-code code="390" sequence-number="390" description="Student previously reported on 504 plan must continue to report as 504 plan" state-code="390" template-context=".390" />
+  <reference-code code="4" sequence-number="4" description="No students enrolled in school and/or grade level" template-context=".4" />
+  <reference-code code="41524" sequence-number="41524" description="Sending Status: Sending Student cannot go to Public or Charter school" template-context=".41524" />
+  <reference-code code="41525" sequence-number="41525" description="PreSchool/HomeSchool only valid with enrollment status (DOE012) = 40 or 41" template-context=".41525" />
+  <reference-code code="501524" sequence-number="501524" description="Enrollment not valid with Approved Sped school" state-code="501524" template-context=".501524" />
+  <reference-code code="575" sequence-number="575" description="Non-Instructional Title I code (DOE030) is invalid" state-code="575" template-context=".575" />
+  <reference-code code="6" sequence-number="6" description="Graduate percentage too low" state-code="6" template-context=".6" />
+  <reference-code code="70" sequence-number="70" description="Perfect attendance for entire grade not likely" state-code="70" template-context=".70" />
+  <reference-code code="71" sequence-number="71" description="Perfect attendance for entire school not likely" state-code="71" template-context=".71" />
+  <reference-code code="785" sequence-number="785" description="SLIFE (DOE041) has an invalid value" state-code="785" template-context=".785" />
+  <reference-code code="9" sequence-number="9" description="Summer graduates,Aged Out, Deceased reported in October must not be reported in March/EOY" state-code="9" template-context=".9" />
+</reference-table>
+

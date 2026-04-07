@@ -1,0 +1,26 @@
+<!--  ********************************************************************  -->
+<!--  INPUT DEFINITION FOR PROCEDURE TO EXECUTE USER-ENTERED SQL STATEMENT  -->
+<!--  ********************************************************************  -->
+<tool-input>
+<!--  *********  -->
+<!--  SQL INPUT  -->
+<!--  *********  -->
+<input name="sql" data-type="string" display-type="textarea" display-name="SQL"/>
+<!--  **************  -->
+<!--  SQL QUERY TYPE  -->
+<!--  **************  -->
+<input name="queryType" data-type="string" display-type="select" display-name="Query Type">
+<option value="SELECT" display-name="Select"/>
+<option value="UPDATE" display-name="Update"/>
+<option value="INSERT" display-name="Insert"/>
+<option value="DELETE" display-name="Delete"/>
+</input>
+<!--  *************  -->
+<!--  REFRESH CACHE  -->
+<!--  *************  -->
+<input name="refresh" data-type="boolean" display-type="checkbox" display-name="Refresh cache"/>
+<!--  *********  -->
+<!--  Limiter INPUT  -->
+<!--  *********  -->
+<input name="limiter" data-type="string" display-type="hidden" display-name="Limiter" default-value="10000"/>
+</tool-input>

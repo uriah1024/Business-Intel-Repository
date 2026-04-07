@@ -1,0 +1,1 @@
+holds visual quick snaps of projects and tasks. Can reflect start or end states of a project. Some efforts are exploratory or practice.

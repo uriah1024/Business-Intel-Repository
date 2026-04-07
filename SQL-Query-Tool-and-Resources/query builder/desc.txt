@@ -1,0 +1,1 @@
+This folder contains the raw contents found in the zip file. The best way to leverage this tool is to download and unzip the contents, then launch the index.html file to see it all in action.
